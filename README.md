@@ -1,2 +1,0 @@
-# rxc.c
-sjkniiis
