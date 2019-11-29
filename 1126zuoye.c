@@ -11,8 +11,8 @@ int main(void)
     if(i>m/2)
     {
     count++;
-    printf("%-3d",m);
-    if(count%5==0)
+    printf("%-5d",m);
+    if(count%10==0)
     printf("\n");
     }
     }
